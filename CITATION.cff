@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "GSAF agent-based model: graduated adoption of semantic and Neuro-Symbolic interoperability in public administration"
+authors:
+  - family-names: Haioun
+    given-names: Amina
+    affiliation: "Higher Normal School of Constantine (ENSC), Algeria"
+  - family-names: Sellami
+    given-names: Samir
+    affiliation: "LIRE Laboratory, University of Constantine 2; ENSET Skikda, Algeria"
+license: MIT
+repository-code: "https://github.com/SamRepository/gsaf-abm"
+version: "1.0.0"
+date-released: "2026-10-29"
