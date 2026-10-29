@@ -1,0 +1,225 @@
+{
+ "mc": {
+  "mature|graduated": {
+   "mean_stage": [
+    3.839,
+    0.086
+   ],
+   "share_s2": [
+    0.989,
+    0.017
+   ],
+   "share_s4": [
+    0.903,
+    0.047
+   ],
+   "failures_per_agency": [
+    1.095,
+    0.218
+   ],
+   "abandoned": [
+    0.087,
+    0.046
+   ],
+   "traj": [
+    null,
+    null
+   ]
+  },
+  "mature|big_bang": {
+   "mean_stage": [
+    0.284,
+    0.158
+   ],
+   "share_s2": [
+    0.071,
+    0.039
+   ],
+   "share_s4": [
+    0.071,
+    0.039
+   ],
+   "failures_per_agency": [
+    6.748,
+    0.546
+   ],
+   "abandoned": [
+    0.536,
+    0.08
+   ],
+   "traj": [
+    null,
+    null
+   ]
+  },
+  "emerging|graduated": {
+   "mean_stage": [
+    1.167,
+    0.086
+   ],
+   "share_s2": [
+    0.252,
+    0.068
+   ],
+   "share_s4": [
+    0.0,
+    0.001
+   ],
+   "failures_per_agency": [
+    1.544,
+    0.237
+   ],
+   "abandoned": [
+    0.123,
+    0.053
+   ],
+   "traj": [
+    null,
+    null
+   ]
+  },
+  "emerging|big_bang": {
+   "mean_stage": [
+    0.001,
+    0.01
+   ],
+   "share_s2": [
+    0.0,
+    0.002
+   ],
+   "share_s4": [
+    0.0,
+    0.002
+   ],
+   "failures_per_agency": [
+    7.082,
+    0.548
+   ],
+   "abandoned": [
+    0.564,
+    0.081
+   ],
+   "traj": [
+    null,
+    null
+   ]
+  }
+ },
+ "mean_rule": {
+  "mature|graduated": {
+   "mean_stage": [
+    3.939,
+    0.052
+   ],
+   "share_s2": [
+    0.997,
+    0.01
+   ],
+   "share_s4": [
+    0.961,
+    0.03
+   ],
+   "failures_per_agency": [
+    0.479,
+    0.122
+   ],
+   "abandoned": [
+    0.039,
+    0.03
+   ]
+  },
+  "mature|big_bang": {
+   "mean_stage": [
+    1.734,
+    0.306
+   ],
+   "share_s2": [
+    0.434,
+    0.076
+   ],
+   "share_s4": [
+    0.434,
+    0.076
+   ],
+   "failures_per_agency": [
+    5.198,
+    0.5
+   ],
+   "abandoned": [
+    0.418,
+    0.079
+   ]
+  },
+  "emerging|graduated": {
+   "mean_stage": [
+    1.392,
+    0.093
+   ],
+   "share_s2": [
+    0.437,
+    0.082
+   ],
+   "share_s4": [
+    0.0,
+    0.001
+   ],
+   "failures_per_agency": [
+    1.334,
+    0.212
+   ],
+   "abandoned": [
+    0.107,
+    0.049
+   ]
+  },
+  "emerging|big_bang": {
+   "mean_stage": [
+    0.006,
+    0.025
+   ],
+   "share_s2": [
+    0.001,
+    0.006
+   ],
+   "share_s4": [
+    0.001,
+    0.006
+   ],
+   "failures_per_agency": [
+    7.092,
+    0.508
+   ],
+   "abandoned": [
+    0.564,
+    0.078
+   ]
+  }
+ },
+ "sens": [
+  [
+   0.02,
+   0.88095,
+   0.0002
+  ],
+  [
+   0.04,
+   1.16735,
+   0.0012
+  ],
+  [
+   0.06,
+   1.5372999999999999,
+   0.0016
+  ],
+  [
+   0.08,
+   1.8242,
+   0.0032
+  ],
+  [
+   0.1,
+   2.19,
+   0.0164
+  ]
+ ]
+}

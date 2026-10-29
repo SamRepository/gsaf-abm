@@ -1,0 +1,38 @@
+{
+ "abandon=0.04": {
+  "mature|graduated": 3.91,
+  "mature|big_bang": 0.32,
+  "emerging|graduated": 1.23,
+  "emerging|big_bang": 0.0
+ },
+ "abandon=0.16": {
+  "mature|graduated": 3.71,
+  "mature|big_bang": 0.2,
+  "emerging|graduated": 1.06,
+  "emerging|big_bang": 0.0
+ },
+ "tau4=0.7": {
+  "mature|graduated": 3.88,
+  "mature|big_bang": 1.14,
+  "emerging|graduated": 1.17,
+  "emerging|big_bang": 0.0
+ },
+ "tau4=0.9": {
+  "mature|graduated": 3.69,
+  "mature|big_bang": 0.05,
+  "emerging|graduated": 1.17,
+  "emerging|big_bang": 0.0
+ },
+ "steep=10.0": {
+  "mature|graduated": 3.77,
+  "mature|big_bang": 1.39,
+  "emerging|graduated": 1.2,
+  "emerging|big_bang": 0.06
+ },
+ "steep=30.0": {
+  "mature|graduated": 3.86,
+  "mature|big_bang": 0.03,
+  "emerging|graduated": 1.11,
+  "emerging|big_bang": 0.0
+ }
+}
