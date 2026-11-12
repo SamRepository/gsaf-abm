@@ -40,6 +40,7 @@ All runs use fixed random seeds. The results in `results/` and `figures/` are th
 | `make_fig2.py` | Table 4, Fig. 2, `results/sim_results.json` |
 | `sensitivity_oat.py` | One-at-a-time sensitivity, `results/sens2.json` |
 | `sensitivity_global.py` | Global sensitivity (300 Latin hypercube samples), `results/gsa.json` |
+| `ablation.py` | Ablation: big-bang that waits until ready, jump to S3, no learning gain (means and 95% CIs over 1,000 runs), `results/ablation.json` |
 | `make_fig1.py` | Fig. 1, reference architecture |
 
 ## License
