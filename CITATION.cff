@@ -8,7 +8,10 @@ authors:
   - family-names: Sellami
     given-names: Samir
     affiliation: "LIRE Laboratory, University of Constantine 2; ENSET Skikda, Algeria"
+  - family-names: Mezghache
+    given-names: Rida
+    affiliation: "ENSET Skikda; LISCO Laboratory, Badji Mokhtar-Annaba University, Algeria"
 license: MIT
 repository-code: "https://github.com/SamRepository/gsaf-abm"
-version: "1.1.0"
+version: "1.2.0"
 date-released: "2026-11-12"

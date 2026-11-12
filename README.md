@@ -2,7 +2,7 @@
 
 Code and results for the paper:
 
-> A. Haioun, S. Sellami. *Modeling the Graduated Adoption of Semantic and Neuro-Symbolic Interoperability in Public Administration: A Capability Framework and Agent-Based Simulation.* Submitted to the 2nd International Conference on Modeling, Simulation and Computer Technology (ICMSCT'26), 2026.
+> A. Haioun, S. Sellami, R. Mezghache. *Modeling the Graduated Adoption of Semantic and Neuro-Symbolic Interoperability in Public Administration: A Capability Framework and Agent-Based Simulation.* Submitted to the 2nd International Conference on Modeling, Simulation and Computer Technology (ICMSCT'26), 2026.
 
 The model compares two strategies for adopting semantic and Neuro-Symbolic capabilities in public administration, using the four stages of the Graduated Semantic Adoption Framework (GSAF):
 
@@ -40,6 +40,7 @@ All runs use fixed random seeds. The results in `results/` and `figures/` are th
 | `make_fig2.py` | Table 4, Fig. 2, `results/sim_results.json` |
 | `sensitivity_oat.py` | One-at-a-time sensitivity, `results/sens2.json` |
 | `sensitivity_global.py` | Global sensitivity (300 Latin hypercube samples), `results/gsa.json` |
+| `sensitivity_global_ext.py` | Baseline GSA re-run with all 300 samples kept, plus an extended GSA that also varies initial readiness and τ1–τ3; `results/gsa_ext.json`, `figures/fig_gsa_distribution.png` (Fig. S1 in the paper) |
 | `ablation.py` | Ablation: big-bang that waits until ready, jump to S3, no learning gain (means and 95% CIs over 1,000 runs), `results/ablation.json` |
 | `make_fig1.py` | Fig. 1, reference architecture |
 
